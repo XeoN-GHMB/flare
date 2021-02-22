@@ -35,6 +35,7 @@ extensions = [
     'autoapi.extension'
 ]
 
+autodoc_mock_imports = ["js"]
 autoapi_dirs = ['../flare']
 
 # Add any paths that contain templates here, relative to this directory.
