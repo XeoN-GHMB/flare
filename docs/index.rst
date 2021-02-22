@@ -40,11 +40,11 @@ For more information about how to use this library, see the :ref:`api`.
 
 .. toctree::
    :maxdepth: 2
+   :glob:
    :caption: Flare
 
-   a/index
-   a/a1
-   a/a2
+   a/*
+   *
 
 Indices and tables
 ==================

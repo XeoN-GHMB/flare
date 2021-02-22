@@ -1,7 +1,5 @@
-.. toctree::
-   :glob:
-   :caption: A Section Contents:
-   *
-
+=======================
+This is a Title for TOC
+=======================
 
 TEst
