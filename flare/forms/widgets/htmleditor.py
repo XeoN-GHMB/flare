@@ -13,7 +13,7 @@ from flare.config import conf
 from flare.i18n import translate
 from flare.button import Button
 from flare.popup import Alert
-from flare.forms.widgets.file import FileWidget
+from .file import FileWidget
 
 class TextInsertImageAction(Button):
 	def __init__(self, summernote=None, boneName="", *args, **kwargs):
