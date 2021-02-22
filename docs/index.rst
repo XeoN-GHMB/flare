@@ -42,7 +42,7 @@ For more information about how to use this library, see the :ref:`api`.
    :maxdepth: 2
    :caption: Contents:
 
-   TOC Item A <a>
+   TOC Item A <a1>
 
 Indices and tables
 ==================
