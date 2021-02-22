@@ -39,10 +39,9 @@ Reference Example
 For more information about how to use this library, see the :ref:`api`.
 
 .. toctree::
-   :glob:
    :maxdepth: 2
-   :caption: Contents:
-   TOC A Du Arsch <a/*>
+   :caption: Flare
+   a/index
 
 Indices and tables
 ==================
