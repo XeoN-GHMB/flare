@@ -1,7 +1,7 @@
 .. toctree::
+   :glob:
    :caption: A Section Contents:
-   TOC Item A2 <a2>
-   TOC Item B <b1>
+   *
 
 
 TEst

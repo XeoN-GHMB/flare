@@ -39,10 +39,10 @@ Reference Example
 For more information about how to use this library, see the :ref:`api`.
 
 .. toctree::
+   :glob:
    :maxdepth: 2
    :caption: Contents:
-
-   TOC Item A <a1>
+   *
 
 Indices and tables
 ==================
